@@ -1,6 +1,5 @@
-adsfa
-sf
-asdf
-asd
-fsad
+def fetch():
+   print "fetching stuff from box"
 
+def main():
+   fetch()
